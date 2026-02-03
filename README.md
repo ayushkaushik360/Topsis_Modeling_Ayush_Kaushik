@@ -21,16 +21,20 @@ Text data Collection ----> Finding result using different models ---> Calculatio
 
 ## Input Dataset:
 
-<img width="518" height="625" alt="image" src="https://github.com/user-attachments/assets/19497b27-281c-4d5d-89fd-6765b5605743" />
+<img width="703" height="160" alt="image" src="https://github.com/user-attachments/assets/7fdf4d17-239b-4069-9756-cd0b78bbd6ba" />
+
 
 ---
 ## Output Table:
-<img width="1236" height="489" alt="image" src="https://github.com/user-attachments/assets/86510cf7-7440-41ec-a247-2b0ad23991b6" />
+<img width="1236" height="488" alt="image" src="https://github.com/user-attachments/assets/0cf375d2-9bdb-4aaa-9442-8273b1079367" />
+
 
 ---
-
 ## Output Graph
 
-<img width="789" height="585" alt="image" src="https://github.com/user-attachments/assets/3e3d614d-1e6b-4cab-acce-700d44718403" />
+<img width="790" height="595" alt="image" src="https://github.com/user-attachments/assets/36e70b3f-d473-4f02-95cb-0b4d122fb1b1" />
+<img width="791" height="584" alt="image" src="https://github.com/user-attachments/assets/0fdbdafa-8740-47a0-8108-db994adf15ce" />
 
-<img width="789" height="588" alt="image" src="https://github.com/user-attachments/assets/d5bb09b8-76d4-4506-855b-cf7086a8244a" />
+
+<img width="791" height="584" alt="image" src="https://github.com/user-attachments/assets/ef0d8154-e6ee-4f64-aa7c-18342d31e476" />
+
