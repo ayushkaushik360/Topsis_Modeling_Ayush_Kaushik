@@ -35,6 +35,3 @@ Text data Collection ----> Finding result using different models ---> Calculatio
 <img width="790" height="595" alt="image" src="https://github.com/user-attachments/assets/36e70b3f-d473-4f02-95cb-0b4d122fb1b1" />
 <img width="791" height="584" alt="image" src="https://github.com/user-attachments/assets/0fdbdafa-8740-47a0-8108-db994adf15ce" />
 
-
-<img width="791" height="584" alt="image" src="https://github.com/user-attachments/assets/ef0d8154-e6ee-4f64-aa7c-18342d31e476" />
-
